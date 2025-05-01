@@ -50,7 +50,7 @@
     "@rollup/plugin-terser": "^0.4.4",
     "@typescript-eslint/eslint-plugin": "^8.28.0",
     "@typescript-eslint/parser": "^8.28.0",
-    "astro": "^5.5.5",
+    "astro": "^5.7.10",
     "astro-eslint-parser": "^1.2.2",
     "autoprefixer": "^10.4.21",
     "bundlewatch": "^0.4.0",
