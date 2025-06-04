@@ -115,7 +115,7 @@ importers:
         specifier: ^10.1.2
         version: 10.1.2
       postcss:
-        specifier: ^8.5.3
+        specifier: ^8.5.4
         version: 8.5.4
       postcss-cli:
         specifier: ^11.0.1
