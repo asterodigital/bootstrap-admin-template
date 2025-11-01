@@ -41,8 +41,8 @@
     "url": "https://github.com/asterodigital/bootstrap-admin-template/issues"
   },
   "devDependencies": {
-    "@astrojs/check": "^0.9.4",
-    "@astrojs/prism": "^3.2.0",
+    "@astrojs/check": "^0.9.5",
+    "@astrojs/prism": "^3.3.0",
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.26.0",
     "@rollup/plugin-commonjs": "^28.0.3",
@@ -50,7 +50,7 @@
     "@rollup/plugin-terser": "^0.4.4",
     "@typescript-eslint/eslint-plugin": "^8.32.1",
     "@typescript-eslint/parser": "^8.32.1",
-    "astro": "^5.7.12",
+    "astro": "^5.15.3",
     "astro-eslint-parser": "^1.2.2",
     "autoprefixer": "^10.4.21",
     "bundlewatch": "^0.4.1",
